@@ -1,6 +1,6 @@
 # MyDream
 
-I want to develop in myself. so I just start GitHub.
+I want to develop. so I just start GitHub.
 I'm still beginner but I will practice hard.
 I didn't decide what to start. I think I can find my goals.
 
